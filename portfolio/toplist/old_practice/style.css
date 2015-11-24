@@ -32,23 +32,10 @@ h2 {
 	width: 1200px;
 	text-align: center;
 }
-.grid {
-	margin: 1% auto;
-	max-width: 1200px;
-	width: 100%;
-}
 .row {
     margin-bottom: 20px;
-    display: flex;
-    flex-wrap: wrap
 
 }
-
-.col-6{
-	width:50%;
-	text-align: right;
-}
-
 .col-4{
 	width:33.33%;
 	text-align:center;
