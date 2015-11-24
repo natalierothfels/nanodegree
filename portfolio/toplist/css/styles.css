@@ -1,0 +1,17 @@
+body {
+	font-family: 'Proxima Nova', sans-serif;
+	color: #0B64AF;
+}
+
+.logo {
+	margin-top: 20px;
+}
+
+.super_name{
+	font-size:48px;
+	font-weight: 200;
+}
+
+.text_muted {
+	font-weight: 100;
+}
